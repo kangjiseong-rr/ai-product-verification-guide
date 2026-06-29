@@ -358,8 +358,9 @@
 
 ![](.gitbook/assets/slide18-image7.png)
 
-* 확인 핵심 포인트
-  * 외부 AI 모델의 호출 로그나 API Key 등이 확인 가능한가?
+#### 확인 핵심 포인트
+
+1. 외부 AI 모델의 호출 로그나 API Key 등이 확인 가능한가?
 {% endstep %}
 {% endstepper %}
 
