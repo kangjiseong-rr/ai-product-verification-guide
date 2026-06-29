@@ -86,13 +86,13 @@
 * 일반 입찰 적격 심사 시 신인도 우대를 통한 가점 부여
 * SW 단가계약 시 납품실적 요건 면제
 
-## 2. 확인 기준
+### 바. 확인 기준
 
 * 아래 기준을 만족한 경우, AI제품·서비스로 확인
 
 <table><thead><tr><th width="130" align="center">구 분</th><th width="88" align="center">번 호</th><th width="411">확인 내용</th><th align="center">비고</th></tr></thead><tbody><tr><td align="center">인공지능모델확인</td><td align="center">1.1</td><td>제품·서비스에 인공지능처리 연산체계가 적용되어 있는가?</td><td align="center">서류</td></tr><tr><td align="center"></td><td align="center">1.2</td><td>적용된 인공지능처리 연산체계가 학습·추론 등<br>인공지능으로서 특성을 가지고 있는가?</td><td align="center">서류<br>현장</td></tr><tr><td align="center"></td><td align="center">1.3</td><td>제품·서비스에 입력된 데이터가 인공지능처리 연산체계를 거쳐 유의미한 결과(예측, 생성 등)를 출력하는가?</td><td align="center">서류<br>현장</td></tr><tr><td align="center">인공지능기능확인</td><td align="center">2.1</td><td>제품·서비스의 구조도상 인공지능 또는 인공지능기술의 위치가 명확하며, 제품·서비스의 구동 체계와 결합되어 동작하는가?</td><td align="center">서류</td></tr><tr><td align="center"></td><td align="center">2.2</td><td>인공지능처리 연산체계가 제품·서비스의 아래 사항 중 하나 이상에 기여하는가?<br>* 기능 추가, 기능 개선, 사용자 편의성, 접근성 개선, 자원 효율화</td><td align="center">서류<br>현장</td></tr><tr><td align="center"></td><td align="center">2.3</td><td>인공지능처리 연산체계가 적용된 주요 기능이 정상적으로 동작하는가?</td><td align="center">현장</td></tr><tr><td align="center">외부모델연동확인</td><td align="center">3.1</td><td>외부 모델과 연동된 경우 호출 로그나 응용프로그램 프로그래밍 인터페이스 키(API Key)를 확인 가능한가?</td><td align="center">서류<br>현장</td></tr></tbody></table>
 
-## 3. 기술 심사 안내
+## 2. 기술 심사 안내
 
 ### 가. 기술 심사 개요
 
@@ -363,7 +363,7 @@
 {% endstep %}
 {% endstepper %}
 
-## 4. 주요 AI 제품 및 서비스별 사례
+## 3. 주요 AI 제품 및 서비스별 사례
 
 ### 가. AI 적용 확인 가능 사례
 
@@ -435,7 +435,7 @@
 
 
 
-## 5. 인정 인공지능 모델
+## 4. 인정 인공지능 모델
 
 ### 가. 주요 머신러닝 기반 모델
 
