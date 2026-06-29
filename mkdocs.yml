@@ -1,41 +1,25 @@
-site_name: AI 제품 및 서비스 확인제 가이드
-site_description: AI 제품 및 서비스 확인제 대외 공개용 문서 사이트
-site_url: https://example.github.io/ai-product-service-guide/
-repo_name: ai-product-service-guide
-repo_url: https://github.com/ORG/ai-product-service-guide
+site_name: AI 제품 및 서비스 확인제 기업용 가이드라인
+site_description: AI 제품 및 서비스 확인제 기업용 가이드라인 Markdown 문서
+site_url: https://kangjiseong-rr.github.io/ai-product-verification-guide/
+repo_name: kangjiseong-rr/ai-product-verification-guide
+repo_url: https://github.com/kangjiseong-rr/ai-product-verification-guide
 edit_uri: edit/main/docs/
 
 theme:
   name: material
   language: ko
   features:
-    - navigation.instant
-    - navigation.tracking
-    - navigation.sections
-    - navigation.expand
     - navigation.top
     - toc.follow
-    - search.suggest
     - search.highlight
     - content.code.copy
   palette:
     - scheme: default
       primary: teal
       accent: cyan
-      toggle:
-        icon: material/weather-night
-        name: 다크 모드로 전환
-    - scheme: slate
-      primary: teal
-      accent: cyan
-      toggle:
-        icon: material/weather-sunny
-        name: 라이트 모드로 전환
   font:
     text: Noto Sans KR
     code: Roboto Mono
-  icon:
-    logo: material/robot-outline
 
 plugins:
   - search:
@@ -44,36 +28,11 @@ plugins:
         - en
 
 markdown_extensions:
-  - admonition
-  - attr_list
-  - md_in_html
   - tables
   - toc:
       permalink: true
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
-  - pymdownx.tasklist:
-      custom_checkbox: true
-
-extra_css:
-  - assets/stylesheets/extra.css
+  - attr_list
+  - md_in_html
 
 nav:
   - 홈: index.md
-  - 원문 반영표: 00-source-map.md
-  - 제도 소개: 01-overview.md
-  - 확인 기준: 02-criteria.md
-  - 확인 기준별 심사 가이드:
-      - 1.1 인공지능 적용: review-guide/1-1-ai-model-applied.md
-      - 1.2 학습·추론 특성 존재: review-guide/1-2-learning-inference.md
-      - 1.3 추론 결과 확인: review-guide/1-3-inference-result.md
-      - 2.1 구조 확인: review-guide/2-1-architecture.md
-      - 2.2 생산성 향상: review-guide/2-2-productivity.md
-      - 2.3 핵심 AI 기능 확인: review-guide/2-3-core-ai-function.md
-      - 3.1 외부 모델 API 연동: review-guide/3-1-external-api.md
-  - 주요 AI 제품 및 서비스별 사례: 03-cases.md
-  - 인정 인공지능 모델: 04-recognized-ai-models.md
-  - 원문 페이지 보기: 05-original-pages.md
-  - 공개 전 점검표: 06-publication-checklist.md
