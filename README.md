@@ -356,7 +356,7 @@
 * 호출 로그, API Key 설정 정보 등 AI 서비스 연동 여부를 확인할 수 있도록 시연 준비
   * 예) AI 기능 실행 시, 호출 로그에 호출 내역이 추가되는지 확인
 
-![Slide 18 image](.gitbook/assets/slide18-image7.png)
+![](.gitbook/assets/slide18-image7.png)
 
 * 확인 핵심 포인트
   * 외부 AI 모델의 호출 로그나 API Key 등이 확인 가능한가?
