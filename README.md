@@ -23,8 +23,8 @@
 <table>
   <thead>
     <tr>
-      <th width="260">구분</th>
-      <th>주요 사례</th>
+      <th width="30%">구분</th>
+      <th width="70%">주요 사례</th>
     </tr>
   </thead>
   <tbody>
@@ -259,8 +259,8 @@
 <table>
   <thead>
     <tr>
-      <th>입력필드명</th>
-      <th>설 명</th>
+      <th width="30%">입력필드명</th>
+      <th width="70%">설 명</th>
     </tr>
   </thead>
   <tbody>
@@ -298,8 +298,8 @@
 <table>
   <thead>
     <tr>
-      <th>입력필드명</th>
-      <th>설 명</th>
+      <th width="30%">입력필드명</th>
+      <th width="70%">설 명</th>
     </tr>
   </thead>
   <tbody>
@@ -341,8 +341,8 @@
 <table>
   <thead>
     <tr>
-      <th>입력필드명</th>
-      <th>설 명</th>
+      <th width="30%">입력필드명</th>
+      <th width="70%">설 명</th>
     </tr>
   </thead>
   <tbody>
@@ -364,8 +364,8 @@
 <table>
   <thead>
     <tr>
-      <th>입력필드명</th>
-      <th>설 명</th>
+      <th width="30%">입력필드명</th>
+      <th width="70%">설 명</th>
     </tr>
   </thead>
   <tbody>
@@ -403,8 +403,8 @@
 <table>
   <thead>
     <tr>
-      <th>입력필드명</th>
-      <th>설 명</th>
+      <th width="30%">입력필드명</th>
+      <th width="70%">설 명</th>
     </tr>
   </thead>
   <tbody>
@@ -451,8 +451,8 @@
 <table>
   <thead>
     <tr>
-      <th>구 분</th>
-      <th>증빙 방안 예시</th>
+      <th width="30%">구 분</th>
+      <th width="70%">증빙 방안 예시</th>
     </tr>
   </thead>
   <tbody>
@@ -672,9 +672,9 @@
 <table>
   <thead>
     <tr>
-      <th>유형</th>
-      <th>라이브러리</th>
-      <th>공식 모듈명</th>
+      <th width="25%">유형</th>
+      <th width="25%">라이브러리</th>
+      <th width="50%">공식 모듈명</th>
     </tr>
   </thead>
   <tbody>
@@ -710,9 +710,9 @@
 <table>
   <thead>
     <tr>
-      <th>유형</th>
-      <th>라이브러리</th>
-      <th>모듈명</th>
+      <th width="25%">유형</th>
+      <th width="25%">라이브러리</th>
+      <th width="50%">모듈명</th>
     </tr>
   </thead>
   <tbody>
@@ -748,9 +748,9 @@
 <table>
   <thead>
     <tr>
-      <th>유형</th>
-      <th>라이브러리</th>
-      <th>모듈명</th>
+      <th width="25%">유형</th>
+      <th width="25%">라이브러리</th>
+      <th width="50%">모듈명</th>
     </tr>
   </thead>
   <tbody>
@@ -925,9 +925,9 @@
 <table>
   <thead>
     <tr>
-      <th>유형</th>
-      <th>라이브러리</th>
-      <th>모듈명</th>
+      <th width="25%">유형</th>
+      <th width="25%">라이브러리</th>
+      <th width="50%">모듈명</th>
     </tr>
   </thead>
   <tbody>
