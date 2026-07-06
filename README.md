@@ -20,7 +20,28 @@
 
 ### 라. 적용 대상
 
-<table><thead><tr><th width="260">구분</th><th>주요 사례</th></tr></thead><tbody><tr><td>인공지능 또는 인공지능기술을 활용한<br><strong>소프트웨어</strong></td><td>AI 글쓰기 어시스턴트 SW, 회의록 자동 생성·요약 SW, AI 이미지 생성 SW, 코드 자동 완성 SW, 범용 AI 어시스턴트 SW, 문서·이메일 작성 보조 SW 등</td></tr><tr><td>인공지능 또는 인공지능기술을 활용한<br><strong>기기(장치)</strong></td><td>실내 배송 로봇, 시설 점검 로봇, 산업용 감시 드론, 가정용 AI 생활 도우미 로봇, 실내 자율주행 로봇, 서빙 로봇 등</td></tr><tr><td>인공지능 또는 인공지능기술을 활용한<br><strong>클라우드 기반 서비스(SaaS)</strong></td><td>AI 법률 상담 플랫폼, AI 세금 환급 서비스, AI 자산관리 서비스, AI 질의응답 교육 플랫폼, AI 고객상담 자동화, AI 영상 분석 서비스 등</td></tr></tbody></table>
+<table>
+  <thead>
+    <tr>
+      <th width="260">구분</th>
+      <th>주요 사례</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>인공지능 또는 인공지능기술을 활용한<br><strong>소프트웨어</strong></td>
+      <td>AI 글쓰기 어시스턴트 SW, 회의록 자동 생성·요약 SW, AI 이미지 생성 SW, 코드 자동 완성 SW, 범용 AI 어시스턴트 SW, 문서·이메일 작성 보조 SW 등</td>
+    </tr>
+    <tr>
+      <td>인공지능 또는 인공지능기술을 활용한<br><strong>기기(장치)</strong></td>
+      <td>실내 배송 로봇, 시설 점검 로봇, 산업용 감시 드론, 가정용 AI 생활 도우미 로봇, 실내 자율주행 로봇, 서빙 로봇 등</td>
+    </tr>
+    <tr>
+      <td>인공지능 또는 인공지능기술을 활용한<br><strong>클라우드 기반 서비스(SaaS)</strong></td>
+      <td>AI 법률 상담 플랫폼, AI 세금 환급 서비스, AI 자산관리 서비스, AI 질의응답 교육 플랫폼, AI 고객상담 자동화, AI 영상 분석 서비스 등</td>
+    </tr>
+  </tbody>
+</table>
 
 {% hint style="info" %}
 0626 버전 대비 변경: 적용 대상 3개 유형별로 실제 사례(유형별 6개씩, 총 18개)가 새로 추가되었습니다.
@@ -29,22 +50,74 @@
 ### 마. 혜 택
 
 * 다수공급자계약(MAS) 시 참여 요건 및 절차 완화 **(2026년 7월 21일 이후 시행)**
-  * (납품실적) 3천만원→폐지, (실적기업) 3개사→2개사, (표준규격) 업체 제시 규격 인정 등
+  * (납품실적) 3천만원→폐지
+  * (실적기업) 3개사→2개사
+  * (표준규격) 업체 제시 규격 인정 등
 * 일반 입찰 적격 심사 시 신인도 우대를 통한 가점 부여 **(2026년 7월 21일 이후 시행)**
 * SW 단가계약 시 납품실적 요건 면제
 * 다수공급자계약(MAS) 2단계 경쟁 대상 금액 상향
   * (중소기업제품) 1억원→4억원
   * (일반기업제품) 5천만원→2억원
 
-{% hint style="warning" %}
-0626 버전 대비 변경: 법적 근거에 시행령·고시가 추가되었고, 2단계 경쟁 대상 금액 상향이 중소기업제품/일반기업제품 두 가지 기준으로 세분화되었습니다.
-{% endhint %}
 
 ### 바. 확인 기준
 
 * 아래 기준을 만족한 경우, AI제품·서비스로 확인
 
-<table><thead><tr><th width="150" align="center">구 분</th><th width="88" align="center">번 호</th><th width="411">확인 내용</th><th align="center">비고</th></tr></thead><tbody><tr><td align="center">인공지능처리 연산체계 확인</td><td align="center">1.1</td><td>제품·서비스에 인공지능처리 연산체계가 적용되어 있는가?</td><td align="center">서류</td></tr><tr><td align="center"></td><td align="center">1.2</td><td>적용된 인공지능처리 연산체계가 학습·추론 등<br>인공지능으로서의 특성을 가지고 있는가?</td><td align="center">서류<br>현장</td></tr><tr><td align="center"></td><td align="center">1.3</td><td>제품·서비스에 입력된 데이터가 인공지능처리 연산체계를 거쳐 유의미한 결과(예측, 생성 등)를 출력하는가?</td><td align="center">서류<br>현장</td></tr><tr><td align="center">인공지능기능확인</td><td align="center">2.1</td><td>제품·서비스의 구조도상 인공지능 또는 인공지능기술의 위치가 명확하며, 제품·서비스의 구동 체계와 결합되어 동작하는가?</td><td align="center">서류</td></tr><tr><td align="center"></td><td align="center">2.2</td><td>인공지능처리 연산체계가 제품·서비스의 기능, 편의성, 접근성, 효율성 등에 활용되고 있음이 확인 가능한가?</td><td align="center">서류<br>현장</td></tr><tr><td align="center"></td><td align="center">2.3</td><td>인공지능처리 연산체계가 적용된 주요 기능이 정상적으로 동작하는가?</td><td align="center">현장</td></tr><tr><td align="center">외부 인공지능 서비스 연동확인</td><td align="center">3.1</td><td>외부 인공지능처리 연산체계와 연동된 경우 호출 로그나 응용프로그램 프로그래밍 인터페이스 키(API Key)를 확인 가능한가?</td><td align="center">서류<br>현장</td></tr></tbody></table>
+<table>
+  <thead>
+    <tr>
+      <th width="150" align="center">구 분</th>
+      <th width="88" align="center">번 호</th>
+      <th width="411">확인 내용</th>
+      <th align="center">비고</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">인공지능처리 연산체계 확인</td>
+      <td align="center">1.1</td>
+      <td>제품·서비스에 인공지능처리 연산체계가 적용되어 있는가?</td>
+      <td align="center">서류</td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center">1.2</td>
+      <td>적용된 인공지능처리 연산체계가 학습·추론 등<br>인공지능으로서의 특성을 가지고 있는가?</td>
+      <td align="center">서류<br>현장</td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center">1.3</td>
+      <td>제품·서비스에 입력된 데이터가 인공지능처리 연산체계를 거쳐 유의미한 결과(예측, 생성 등)를 출력하는가?</td>
+      <td align="center">서류<br>현장</td>
+    </tr>
+    <tr>
+      <td align="center">인공지능기능확인</td>
+      <td align="center">2.1</td>
+      <td>제품·서비스의 구조도상 인공지능 또는 인공지능기술의 위치가 명확하며, 제품·서비스의 구동 체계와 결합되어 동작하는가?</td>
+      <td align="center">서류</td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center">2.2</td>
+      <td>인공지능처리 연산체계가 제품·서비스의 기능, 편의성, 접근성, 효율성 등에 활용되고 있음이 확인 가능한가?</td>
+      <td align="center">서류<br>현장</td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center">2.3</td>
+      <td>인공지능처리 연산체계가 적용된 주요 기능이 정상적으로 동작하는가?</td>
+      <td align="center">현장</td>
+    </tr>
+    <tr>
+      <td align="center">외부 인공지능 서비스 연동확인</td>
+      <td align="center">3.1</td>
+      <td>외부 인공지능처리 연산체계와 연동된 경우 호출 로그나 응용프로그램 프로그래밍 인터페이스 키(API Key)를 확인 가능한가?</td>
+      <td align="center">서류<br>현장</td>
+    </tr>
+  </tbody>
+</table>
 
 {% hint style="info" %}
 **인공지능처리 연산체계란?**
@@ -54,11 +127,10 @@
 예를 들면, 엑사원(EXAONE), Llama 등 오픈소스 형태로 공개되어 활용되는 인공지능 처리 소프트웨어나 클로바X, chatGPT 등 국내외 다양한 상용 AI 서비스의 기반이 되는 인공지능 모듈 등이 이에 해당합니다.
 {% endhint %}
 
-{% hint style="warning" %}
-0626 버전 대비 변경: 구분 명칭이 "인공지능모델확인"→"인공지능처리 연산체계 확인", "외부모델연동확인"→"외부 인공지능 서비스 연동확인"으로 바뀌었습니다. 항목 2.1에서 "필수불가결하게"라는 표현이 삭제되었고, 항목 2.2는 "아래 사항 중 하나 이상에 기여하는가"에서 "기능, 편의성, 접근성, 효율성 등에 활용되고 있음이 확인 가능한가"로 문구가 구체화되었습니다.
-{% endhint %}
 
 ## 2. 기술 심사 안내
+
+### 가. 기술 심사 개요
 
 * 본 기술 심사는 신청 제품·서비스에 인공지능 기술이 실제로 적용되어 있는지 확인하기 위한 절차
   * 심사는 제출된 신청서 및 참고 자료에 대한 **서류 확인**과, 제품 시연 및 운영환경 확인을 통한 **현장 확인**을 병행하여 진행함
@@ -71,20 +143,70 @@
 
 <h4 align="center">&#x3C; 확인 정보 및 기업 준비 자료 ></h4>
 
-| 확인 방법                                     | 확인 정보                | 기업 준비 자료                              |  관련 확인 기준 항목  |
-| ----------------------------------------- | -------------------- | -------------------------------------- | :-----------: |
-| **서류 확인**                                 | 회사 및 제품 일반 정보        | <p>-<br>(신청서에 기술)</p>                 |       -       |
-|                                           | AI 적용 목적 및 범위        | <p>-<br>(신청서에 기술)</p>                 |    1.1, 2.2   |
-|                                           | AI 적용 기능 목록          | <p>-<br>(신청서에 기술)</p>                 |    1.1, 2.2   |
-|                                           | AI 적용 기능별 AI 종류, 중요도 | <p>가중치 파일, 로그 등 증빙 자료 (택 1)</p>       | 1.2, 1.3, 2.2 |
-|                                           | 제품 구조상 AI의 위치        | 제품 구조도                                |      2.1      |
-| <p><strong>현장 확인</strong><br>(제품 확인)</p> | AI 적용 기능의 중요도        | 없음                                    |      2.2      |
-|                                           | 핵심 AI 기능의 정상 동작 여부   | 없음                                    |      2.3      |
-|                                           | 외부 인공지능 서비스 연동 증빙   | 로그                                    |      3.1      |
+<table>
+  <thead>
+    <tr>
+      <th>확인 방법</th>
+      <th>확인 정보</th>
+      <th>기업 준비 자료</th>
+      <th align="center">관련 확인 기준 항목</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>서류 확인</strong></td>
+      <td>회사 및 제품 일반 정보</td>
+      <td>-<br>(신청서에 기술)</td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>AI 적용 목적 및 범위</td>
+      <td>-<br>(신청서에 기술)</td>
+      <td align="center">1.1, 2.2</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>AI 적용 기능 목록</td>
+      <td>-<br>(신청서에 기술)</td>
+      <td align="center">1.1, 2.2</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>AI 적용 기능별 AI 종류, 중요도</td>
+      <td>가중치 파일, 로그 등 증빙 자료 (택 1)</td>
+      <td align="center">1.2, 1.3, 2.2</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>제품 구조상 AI의 위치</td>
+      <td>제품 구조도</td>
+      <td align="center">2.1</td>
+    </tr>
+    <tr>
+      <td><strong>현장 확인</strong><br>(제품 확인)</td>
+      <td>AI 적용 기능의 중요도</td>
+      <td>없음</td>
+      <td align="center">2.2</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>핵심 AI 기능의 정상 동작 여부</td>
+      <td>없음</td>
+      <td align="center">2.3</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>외부 인공지능 서비스 연동 증빙</td>
+      <td>로그</td>
+      <td align="center">3.1</td>
+    </tr>
+  </tbody>
+</table>
 
 ***
 
-### 가. 인공지능처리 연산체계 확인 \[1.1~1.3]
+### 나. 인공지능처리 연산체계 확인 \[1.1~1.3]
 
 {% stepper %}
 {% step %}
@@ -98,10 +220,33 @@
 
 <h4 align="center">&#x3C; 핵심 AI 기능 정보 예시 ></h4>
 
-| 기능명    | AI 역할 | 사용자 입력 유형              | 시스템 출력 유형              | 매뉴얼 참조 위치     |
-| ------ | ----- | ---------------------- | ---------------------- | ------------- |
-| 챗봇     | 응답 생성 | 텍스트                    | 텍스트                    | 사용자 매뉴얼 30페이지 |
-| 판매량 예측 | 예측    | <p>숫자<br>(전년도 판매량)</p> | <p>숫자<br>(판매량 예측치)</p> | 사용자 매뉴얼 57페이지 |
+<table>
+  <thead>
+    <tr>
+      <th>기능명</th>
+      <th>AI 역할</th>
+      <th>사용자 입력 유형</th>
+      <th>시스템 출력 유형</th>
+      <th>매뉴얼 참조 위치</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>챗봇</td>
+      <td>응답 생성</td>
+      <td>텍스트</td>
+      <td>텍스트</td>
+      <td>사용자 매뉴얼 30페이지</td>
+    </tr>
+    <tr>
+      <td>판매량 예측</td>
+      <td>예측</td>
+      <td>숫자<br>(전년도 판매량)</td>
+      <td>숫자<br>(판매량 예측치)</td>
+      <td>사용자 매뉴얼 57페이지</td>
+    </tr>
+  </tbody>
+</table>
 
 ![](.gitbook/assets/slide08-image2.png)
 
@@ -111,62 +256,180 @@
 
 <h4 align="center">&#x3C; Case 1: 자체 학습 ></h4>
 
-| 입력필드명 | 설 명 |
-| --- | --- |
-| AI 연산 자원 | GPU, NPU, CPU 등 AI 연산에 활용하는 장치를 기재합니다.<br>👉 (예) NVIDIA A100 40GB 1대, CPU 16 vCPU |
-| AI 실행 환경 세부정보 | 운영체제, AI 연산 플랫폼(예: CUDA), 컨테이너 등 AI 모듈 실행이 필요한 환경을 기재합니다.<br>👉 (예) Ubuntu 22.04, CUDA 12.1, NVIDIA Driver 535, PyTorch 2.6.0 |
-| 학습 데이터 사양 | 학습 데이터 출처, 유형, 건수 등을 요약하여 기재합니다.<br>👉 (예) 데이터 출처: 제휴 병원 비식별 흉부 X-ray 데이터, 데이터 유형: DICOM 이미지, 데이터 규모: 약 200,000건 |
-| 개발환경/라이브러리/알고리즘 | 개발환경, 라이브러리, 알고리즘 등에 대한 정보를 요약하여 기재합니다.<br>👉 (예) 개발언어: Python 3.1, 라이브러리: PyTorch 2.6.0, TorchVision, 알고리즘: CNN 기반 객체 탐지 모듈 |
-| 입력 데이터 설명 | AI 모듈에 입력되는 데이터에 대한 설명을 요약하여 기재합니다.<br>👉 (예) 환자 DICOM 영상 파일과 검사 메타데이터를 입력으로 사용합니다 |
-| 출력 데이터 설명 | AI 모듈에 출력되는 값에 대한 설명을 요약하여 기재합니다.<br>👉 (예) 병변 후보 좌표, 위험도 점수, 소견 분류 라벨을 JSON으로 출력합니다 |
+<table>
+  <thead>
+    <tr>
+      <th>입력필드명</th>
+      <th>설 명</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>AI 연산 자원</td>
+      <td>GPU, NPU, CPU 등 AI 연산에 활용하는 장치를 기재합니다.<br>👉 (예) NVIDIA A100 40GB 1대, CPU 16 vCPU</td>
+    </tr>
+    <tr>
+      <td>AI 실행 환경 세부정보</td>
+      <td>운영체제, AI 연산 플랫폼(예: CUDA), 컨테이너 등 AI 모듈 실행이 필요한 환경을 기재합니다.<br>👉 (예) Ubuntu 22.04, CUDA 12.1, NVIDIA Driver 535, PyTorch 2.6.0</td>
+    </tr>
+    <tr>
+      <td>학습 데이터 사양</td>
+      <td>학습 데이터 출처, 유형, 건수 등을 요약하여 기재합니다.<br>👉 (예) 데이터 출처: 제휴 병원 비식별 흉부 X-ray 데이터, 데이터 유형: DICOM 이미지, 데이터 규모: 약 200,000건</td>
+    </tr>
+    <tr>
+      <td>개발환경/라이브러리/알고리즘</td>
+      <td>개발환경, 라이브러리, 알고리즘 등에 대한 정보를 요약하여 기재합니다.<br>👉 (예) 개발언어: Python 3.1, 라이브러리: PyTorch 2.6.0, TorchVision, 알고리즘: CNN 기반 객체 탐지 모듈</td>
+    </tr>
+    <tr>
+      <td>입력 데이터 설명</td>
+      <td>AI 모듈에 입력되는 데이터에 대한 설명을 요약하여 기재합니다.<br>👉 (예) 환자 DICOM 영상 파일과 검사 메타데이터를 입력으로 사용합니다</td>
+    </tr>
+    <tr>
+      <td>출력 데이터 설명</td>
+      <td>AI 모듈에 출력되는 값에 대한 설명을 요약하여 기재합니다.<br>👉 (예) 병변 후보 좌표, 위험도 점수, 소견 분류 라벨을 JSON으로 출력합니다</td>
+    </tr>
+  </tbody>
+</table>
 
 ***
 
 <h4 align="center">&#x3C; Case 2: 오픈소스 사용(파인 튜닝 포함) ></h4>
 
-| 입력필드명 | 설 명 |
-| --- | --- |
-| AI 연산 자원 | GPU, NPU, CPU 등 AI 연산에 활용하는 장치를 기재합니다.<br>👉 (예) NVIDIA T4 16GB 1대 |
-| AI 실행 환경 세부정보 | 운영체제, AI 연산 플랫폼(예: CUDA), 컨테이너 등 AI 모듈 실행이 필요한 환경을 기재합니다.<br>👉 (예) Ubuntu 22.04, CUDA 11.8, Python 3.10, PyTorch 2.1.0, LoRA 튜닝 환경 |
-| Base Model 명칭 및 버전 | 파인 튜닝에 사용한 Base Model에 대한 명칭을 정확히 기재합니다.<br>👉 (예) ResNet-50 v2 |
-| 튜닝 방법 | 튜닝에 사용한 방법론을 간략히 기재합니다.<br>👉 (예) 전이학습 + LoRA |
-| 튜닝 데이터셋 | 파인 튜닝 데이터 출처, 유형, 건수 등을 요약하여 기재합니다.<br>👉 (예) 데이터 목적: 사내 ERP 시스템 등록 문서 이미지의 카테고리 자동 분류 성능 보정, 데이터 규모: 스캔 이미지 12,000건, 라벨링: 경영지원 및 재경팀 담당자 3인 교차 검증, 학습 파라미터: Learning Rate=1e-4, Batch Size=32, Epochs=50 |
-| 입력 데이터 설명 | AI 모듈에 입력되는 데이터에 대한 설명을 요약하여 기재합니다.<br>👉 (예) 사내망에 업로드된 문서 이미지 파일(PDF/JPG)을 입력으로 사용합니다. |
-| 출력 데이터 설명 | AI 모듈에서 출력되는 값에 대한 설명을 요약하여 기재합니다.<br>👉 (예) 문서 카테고리 분류 결과, 보안 등급 등을 출력합니다 |
+<table>
+  <thead>
+    <tr>
+      <th>입력필드명</th>
+      <th>설 명</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>AI 연산 자원</td>
+      <td>GPU, NPU, CPU 등 AI 연산에 활용하는 장치를 기재합니다.<br>👉 (예) NVIDIA T4 16GB 1대</td>
+    </tr>
+    <tr>
+      <td>AI 실행 환경 세부정보</td>
+      <td>운영체제, AI 연산 플랫폼(예: CUDA), 컨테이너 등 AI 모듈 실행이 필요한 환경을 기재합니다.<br>👉 (예) Ubuntu 22.04, CUDA 11.8, Python 3.10, PyTorch 2.1.0, LoRA 튜닝 환경</td>
+    </tr>
+    <tr>
+      <td>Base Model 명칭 및 버전</td>
+      <td>파인 튜닝에 사용한 Base Model에 대한 명칭을 정확히 기재합니다.<br>👉 (예) ResNet-50 v2</td>
+    </tr>
+    <tr>
+      <td>튜닝 방법</td>
+      <td>튜닝에 사용한 방법론을 간략히 기재합니다.<br>👉 (예) 전이학습 + LoRA</td>
+    </tr>
+    <tr>
+      <td>튜닝 데이터셋</td>
+      <td>파인 튜닝 데이터 출처, 유형, 건수 등을 요약하여 기재합니다.<br>👉 (예) 데이터 목적: 사내 ERP 시스템 등록 문서 이미지의 카테고리 자동 분류 성능 보정, 데이터 규모: 스캔 이미지 12,000건, 라벨링: 경영지원 및 재경팀 담당자 3인 교차 검증, 학습 파라미터: Learning Rate=1e-4, Batch Size=32, Epochs=50</td>
+    </tr>
+    <tr>
+      <td>입력 데이터 설명</td>
+      <td>AI 모듈에 입력되는 데이터에 대한 설명을 요약하여 기재합니다.<br>👉 (예) 사내망에 업로드된 문서 이미지 파일(PDF/JPG)을 입력으로 사용합니다.</td>
+    </tr>
+    <tr>
+      <td>출력 데이터 설명</td>
+      <td>AI 모듈에서 출력되는 값에 대한 설명을 요약하여 기재합니다.<br>👉 (예) 문서 카테고리 분류 결과, 보안 등급 등을 출력합니다</td>
+    </tr>
+  </tbody>
+</table>
 
 ***
 
 <h4 align="center">&#x3C; Case 3: 외부 AI API 연계 ></h4>
 
-| 입력필드명 | 설 명 |
-| --- | --- |
-| 외부 API | AI 기능에 연동하는 AI 서비스 제공자, 외부 API 명칭을 정확히 기재합니다.<br>👉 (예) OpenAI gpt-4o-mini |
-| 출력 데이터 설명 | 외부 API를 통해 출력되는 값에 대한 설명을 요약하여 기재합니다.<br>👉 (예) 법무팀 검토용 계약서 분석 초안, 법적 독소조항 및 리스크 요약, 리스크 완화를 위한 수정 필요 권고 문구를 생성합니다. |
+<table>
+  <thead>
+    <tr>
+      <th>입력필드명</th>
+      <th>설 명</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>외부 API</td>
+      <td>AI 기능에 연동하는 AI 서비스 제공자, 외부 API 명칭을 정확히 기재합니다.<br>👉 (예) OpenAI gpt-4o-mini</td>
+    </tr>
+    <tr>
+      <td>출력 데이터 설명</td>
+      <td>외부 API를 통해 출력되는 값에 대한 설명을 요약하여 기재합니다.<br>👉 (예) 법무팀 검토용 계약서 분석 초안, 법적 독소조항 및 리스크 요약, 리스크 완화를 위한 수정 필요 권고 문구를 생성합니다.</td>
+    </tr>
+  </tbody>
+</table>
 
 ***
 
 <h4 align="center">&#x3C; Case 4: 온디바이스 ></h4>
 
-| 입력필드명 | 설 명 |
-| --- | --- |
-| AI 연산 자원 | GPU, NPU, CPU 등 AI 연산에 활용하는 장치를 기재합니다.<br>👉 (예) NVIDIA Jetson Orin Nano 8GB |
-| AI 실행 환경 세부정보 | 운영체제, AI 연산 플랫폼(예: CUDA), 컨테이너 등 AI 모듈 실행이 필요한 환경을 기재합니다.<br>👉 (예) Linux for Tegra r36.3, TensorRT, Python 3.10, 온디바이스 추론 |
-| 타겟 하드웨어·OS | AI가 실행될 하드웨어 및 OS에 대한 정보를 기재합니다.<br>👉 (예) NVIDIA Jetson Orin Nano (8GB), Linux for Tegra r36.3 |
-| 추론 런타임 | AI 실행 환경을 기재합니다.<br>👉 (예) TensorRT |
-| 입력 데이터 설명 | AI모듈에 입력되는 데이터에 대한 설명을 요약하여 기재합니다.<br>👉 (예) 생산 라인 산업용 카메라에서 촬영되는 제품 외관 이미지 및 부품 치수 측정 센서 데이터를 입력합니다. |
-| 출력 데이터 설명 | AI모듈에서 출력되는 값에 대한 설명을 요약하여 기재합니다.<br>👉 (예) 제품별 불량 여부(정상/불량 판정), 결함 유형(스크래치, 찍힘 등) 분류 코드 및 생산라인 차단 제어 신호를 생성합니다. |
+<table>
+  <thead>
+    <tr>
+      <th>입력필드명</th>
+      <th>설 명</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>AI 연산 자원</td>
+      <td>GPU, NPU, CPU 등 AI 연산에 활용하는 장치를 기재합니다.<br>👉 (예) NVIDIA Jetson Orin Nano 8GB</td>
+    </tr>
+    <tr>
+      <td>AI 실행 환경 세부정보</td>
+      <td>운영체제, AI 연산 플랫폼(예: CUDA), 컨테이너 등 AI 모듈 실행이 필요한 환경을 기재합니다.<br>👉 (예) Linux for Tegra r36.3, TensorRT, Python 3.10, 온디바이스 추론</td>
+    </tr>
+    <tr>
+      <td>타겟 하드웨어·OS</td>
+      <td>AI가 실행될 하드웨어 및 OS에 대한 정보를 기재합니다.<br>👉 (예) NVIDIA Jetson Orin Nano (8GB), Linux for Tegra r36.3</td>
+    </tr>
+    <tr>
+      <td>추론 런타임</td>
+      <td>AI 실행 환경을 기재합니다.<br>👉 (예) TensorRT</td>
+    </tr>
+    <tr>
+      <td>입력 데이터 설명</td>
+      <td>AI모듈에 입력되는 데이터에 대한 설명을 요약하여 기재합니다.<br>👉 (예) 생산 라인 산업용 카메라에서 촬영되는 제품 외관 이미지 및 부품 치수 측정 센서 데이터를 입력합니다.</td>
+    </tr>
+    <tr>
+      <td>출력 데이터 설명</td>
+      <td>AI모듈에서 출력되는 값에 대한 설명을 요약하여 기재합니다.<br>👉 (예) 제품별 불량 여부(정상/불량 판정), 결함 유형(스크래치, 찍힘 등) 분류 코드 및 생산라인 차단 제어 신호를 생성합니다.</td>
+    </tr>
+  </tbody>
+</table>
 
 ***
 
 <h4 align="center">&#x3C; Case 5: 혼합형 AI ></h4>
 
-| 입력필드명 | 설 명 |
-| --- | --- |
-| AI 연산 자원 | GPU, NPU, CPU 등 AI 연산에 활용하는 장치를 기재합니다.<br>👉 (예) NVIDIA A100 40GB 1대 + 외부 API 제공 자원 |
-| AI 실행 환경 세부정보 | 운영체제, AI 연산 플랫폼(예: CUDA), 컨테이너 등 AI모듈 실행이 필요한 환경을 기재합니다.<br>👉 (예) Ubuntu 22.04, CUDA 12.1, PyTorch 2.6.0, 사내 VLM 파이프라인, OpenAI API 연계 |
-| 혼합 구성 설명 | 혼합 적용된 AI 모듈에 대한 구성을 자세히 기재합니다.<br>👉 (예) 적용 모듈명: ViT-L/14 (비전) + Llama-3-8B-Instruct (LLM) + gpt-4o-mini |
-| 입력 데이터 설명 | AI모듈에 입력되는 데이터에 대한 설명을 요약하여 기재합니다.<br>👉 (예) 고객이 업로드한 파손 제품 사진(이미지) 및 불량 신고 접수 텍스트 문장, 고객 주문/배송 이력 데이터 |
-| 출력 데이터 설명 | AI모듈에서 출력되는 값에 대한 설명을 요약하여 기재합니다.<br>👉 (예) 클레임 자동 분류 결과(파손/배송오류/단순변심), 환불 및 교환 승인 여부(코드)를 생성합니다. |
+<table>
+  <thead>
+    <tr>
+      <th>입력필드명</th>
+      <th>설 명</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>AI 연산 자원</td>
+      <td>GPU, NPU, CPU 등 AI 연산에 활용하는 장치를 기재합니다.<br>👉 (예) NVIDIA A100 40GB 1대 + 외부 API 제공 자원</td>
+    </tr>
+    <tr>
+      <td>AI 실행 환경 세부정보</td>
+      <td>운영체제, AI 연산 플랫폼(예: CUDA), 컨테이너 등 AI모듈 실행이 필요한 환경을 기재합니다.<br>👉 (예) Ubuntu 22.04, CUDA 12.1, PyTorch 2.6.0, 사내 VLM 파이프라인, OpenAI API 연계</td>
+    </tr>
+    <tr>
+      <td>혼합 구성 설명</td>
+      <td>혼합 적용된 AI 모듈에 대한 구성을 자세히 기재합니다.<br>👉 (예) 적용 모듈명: ViT-L/14 (비전) + Llama-3-8B-Instruct (LLM) + gpt-4o-mini</td>
+    </tr>
+    <tr>
+      <td>입력 데이터 설명</td>
+      <td>AI모듈에 입력되는 데이터에 대한 설명을 요약하여 기재합니다.<br>👉 (예) 고객이 업로드한 파손 제품 사진(이미지) 및 불량 신고 접수 텍스트 문장, 고객 주문/배송 이력 데이터</td>
+    </tr>
+    <tr>
+      <td>출력 데이터 설명</td>
+      <td>AI모듈에서 출력되는 값에 대한 설명을 요약하여 기재합니다.<br>👉 (예) 클레임 자동 분류 결과(파손/배송오류/단순변심), 환불 및 교환 승인 여부(코드)를 생성합니다.</td>
+    </tr>
+  </tbody>
+</table>
 
 {% hint style="success" %}
 **확인 핵심 포인트**
@@ -185,11 +448,28 @@
 
 **자체 학습 / 온디바이스 / 혼합형 AI**
 
-| 구 분 | 증빙 방안 예시 |
-| --- | --- |
-| 학습 특성 증빙 | 학습 데이터 변경 시 출력 값(추론 결과)이 달라질 수 있음을 시연 동영상을 통해 증빙 |
-| 인공지능 개발과정 증빙 | 학습, 정확도 검증 등 인공지능 개발 과정 시연 동영상을 통해 증빙 |
-| 추론 증빙 | 학습되지 않은 데이터에 대한 출력 값(추론 결과)이 생성됨을 시연 동영상을 통해 증빙 |
+<table>
+  <thead>
+    <tr>
+      <th>구 분</th>
+      <th>증빙 방안 예시</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>학습 특성 증빙</td>
+      <td>학습 데이터 변경 시 출력 값(추론 결과)이 달라질 수 있음을 시연 동영상을 통해 증빙</td>
+    </tr>
+    <tr>
+      <td>인공지능 개발과정 증빙</td>
+      <td>학습, 정확도 검증 등 인공지능 개발 과정 시연 동영상을 통해 증빙</td>
+    </tr>
+    <tr>
+      <td>추론 증빙</td>
+      <td>학습되지 않은 데이터에 대한 출력 값(추론 결과)이 생성됨을 시연 동영상을 통해 증빙</td>
+    </tr>
+  </tbody>
+</table>
 
 **오픈소스 사용(파인튜닝 포함) / 외부 AI API 연계**
 
@@ -233,7 +513,7 @@
 {% endstep %}
 {% endstepper %}
 
-### 나. 인공지능 기능 확인 \[2.1~2.3]
+### 다. 인공지능 기능 확인 \[2.1~2.3]
 
 {% stepper %}
 {% step %}
@@ -291,9 +571,9 @@
 ***
 
 * (인공지능 적용 기능 확인) 항목 1.1에 기술한 기능에 대해서 정상 동작 여부를 확인할 수 있는 시나리오를 준비합니다.
-* (학습 기능이 있을 경우) 학습 데이터 추가 및 업데이트 후 기존 기능 동작 여부 및 신규 데이터가 반영되는지 확인
-
 ![](.gitbook/assets/slide17-image6.png)
+
+* (학습 기능이 있을 경우) 학습 데이터 추가 및 업데이트 후 기존 기능 동작 여부 및 신규 데이터가 반영되는지 확인
 
 {% hint style="success" %}
 **확인 핵심 포인트**
@@ -304,7 +584,7 @@
 {% endstep %}
 {% endstepper %}
 
-### 다. 외부 인공지능 서비스 연동 확인 \[3.1]
+### 라. 외부 인공지능 서비스 연동 확인 \[3.1]
 
 {% stepper %}
 {% step %}
@@ -337,18 +617,21 @@
 1. 자체 개발 AI 솔루션
    * 업무 데이터 기반 LLM 질의응답 솔루션
    * 기관 내부 규정 연계형 지식 관리 RAG 기반 챗봇 솔루션 등
+
 2. 외부 AI 서비스·엔진·API 연동 기반 AI 핵심기능 솔루션
    * LLM 연동 기반 문서 자동 검토 및 요약 시스템
    * AI Agent 기반 업무흐름 설계 및 자동 실행 도구
    * AI 기반 OCR 문서 인식·문서유형 분류·항목 추출 솔루션
    * AI 기반 도메인 특화 다국어 번역 솔루션
    * AI 기반 개인정보 문맥 탐지, 비식별화, 마스킹 프로그램 등
+
 3. 실시간 영상 인식 및 안전 제어 솔루션
    * 객체인식 영상 분석 솔루션
    * 지능형 CCTV 선별관제 및 화재 탐지 시스템
    * AI 기반 도로 환경 분석 솔루션
    * AI 기반 보행자 위험 행동 실시간 경고 시스템
    * 영상 기반 불량품 자동 검사 시스템 등
+
 4. 기계학습 기반 예측, 탐지, 최적화 시스템
    * 행위 기반 악성코드 및 랜섬웨어 탐지 보안 소프트웨어
    * 네트워크 트래픽 이상행위 탐지 솔루션
@@ -362,20 +645,20 @@
    * 일반 PC, 키오스크 등을 납품하면서 AI 바로가기, 앱을 설치한 경우
    * AI 기능이 하드웨어 제어, 핵심 기능과 연결되지 않은 경우
    * AI 앱, API를 제거해도 제품 주요기능이 동작하는 경우 등
+
 2. 도움말/FAQ/Q\&A 단순 연동 제품
    * 제품 사용법을 알려주는 AI 챗봇 기능 제공하는 경우
    * 메뉴 위치를 안내하는 AI 기능을 제공하는 경우
    * FAQ 검색에만 LLM을 연동한 경우
    * 고객 응대용 챗봇을 부가 기능으로 탑재한 ERP·업무 시스템
-   *   AI 기능이 제품의 핵심 기능이 아니라 사용 편의 또는 보조 기능에
-
-       해당하며, AI를 제거해도 제품 본래 기능 수행에 지장이 없는 경우
+   *   AI 기능이 제품의 핵심 기능이 아니라 사용 편의 또는 보조 기능에 해당하며, AI를 제거해도 제품 본래 기능 수행에 지장이 없는 경우
 3. 외부 AI API 단순 호출 제품
    *   외부 LLM의 응답 결과를 화면에 단순 텍스트 출력(중개)만 하는 경우
 
        (제품의 핵심 기능과 기술적 결합성이 약한 제품)
    * 외부 AI 서비스의 화면을 단순 표시하거나, 별도의 데이터 연계·처리·제어 없이 접근 수단만 제공하는 경우
    * 확인 대상 제품의 처리 로직 없이 범용 AI 프롬프트 창을 그대로 노출하여 단순 질의응답 기능만 제공하는 경우 등
+   
 4. 하드코딩 된 고정형 규칙에 의해서만 동작하는 프로그램
    * IF 조건문 기반 추천 기능을 ‘AI 추천’으로 표시한 경우
    * 평균, 합계, 비율, 임계치 초과 알림을 ‘AI 분석’으로 표시한 경우
@@ -386,12 +669,37 @@
 
 ### 가. 주요 머신러닝 기반 인공지능처리 연산체계
 
-| 유형                     | 라이브러리                  | 공식 모듈명                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| ---------------------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p>지도학습<br>(분류/회귀)</p> | scikit-learn (sklearn) | <p>sklearn.linear_model.LinearRegression<br>sklearn.linear_model.LogisticRegression<br>sklearn.svm.SVC (Support Vector Classification)<br>sklearn.ensemble.RandomForestClassifier<br>sklearn.linear_model.Ridge<br>sklearn.linear_model.Lasso<br>sklearn.linear_model.ElasticNet<br>sklearn.svm.SVR (Support Vector Regression)<br>sklearn.ensemble.RandomForestRegressor<br>sklearn.ensemble.GradientBoostingClassifier<br>sklearn.ensemble.GradientBoostingRegressor<br>sklearn.ensemble.AdaBoostClassifier<br>sklearn.ensemble.ExtraTreesClassifier<br>sklearn.tree.DecisionTreeClassifier<br>sklearn.tree.DecisionTreeRegressor<br>sklearn.neighbors.KNeighborsClassifier<br>sklearn.neighbors.KNeighborsRegressor<br>sklearn.naive_bayes.GaussianNB<br>sklearn.naive_bayes.MultinomialNB<br>sklearn.cross_decomposition.PLSRegression</p> |
-| <p>부스팅<br>알고리즘</p>     | XGBoost / LightGBM     | <p>xgboost.XGBClassifier/xgboost.XGBRegressor<br>lightgbm.LGBMClassifier/lightgbm.LGBMRegressor</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| <p>비지도학습<br>(군집)</p>   | scikit-learn (sklearn) | <p>sklearn.cluster.Kmeans<br>sklearn.decomposition.PCA</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| 통계식 시계열 분석             | statsmodels            | statsmodels.tsa.arima.model.ARIMA                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+<table>
+  <thead>
+    <tr>
+      <th>유형</th>
+      <th>라이브러리</th>
+      <th>공식 모듈명</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>지도학습<br>(분류/회귀)</td>
+      <td>scikit-learn (sklearn)</td>
+      <td>sklearn.linear_model.LinearRegression<br>sklearn.linear_model.LogisticRegression<br>sklearn.svm.SVC (Support Vector Classification)<br>sklearn.ensemble.RandomForestClassifier<br>sklearn.linear_model.Ridge<br>sklearn.linear_model.Lasso<br>sklearn.linear_model.ElasticNet<br>sklearn.svm.SVR (Support Vector Regression)<br>sklearn.ensemble.RandomForestRegressor<br>sklearn.ensemble.GradientBoostingClassifier<br>sklearn.ensemble.GradientBoostingRegressor<br>sklearn.ensemble.AdaBoostClassifier<br>sklearn.ensemble.ExtraTreesClassifier<br>sklearn.tree.DecisionTreeClassifier<br>sklearn.tree.DecisionTreeRegressor<br>sklearn.neighbors.KNeighborsClassifier<br>sklearn.neighbors.KNeighborsRegressor<br>sklearn.naive_bayes.GaussianNB<br>sklearn.naive_bayes.MultinomialNB<br>sklearn.cross_decomposition.PLSRegression</td>
+    </tr>
+    <tr>
+      <td>부스팅<br>알고리즘</td>
+      <td>XGBoost / LightGBM</td>
+      <td>xgboost.XGBClassifier/xgboost.XGBRegressor<br>lightgbm.LGBMClassifier/lightgbm.LGBMRegressor</td>
+    </tr>
+    <tr>
+      <td>비지도학습<br>(군집)</td>
+      <td>scikit-learn (sklearn)</td>
+      <td>sklearn.cluster.Kmeans<br>sklearn.decomposition.PCA</td>
+    </tr>
+    <tr>
+      <td>통계식 시계열 분석</td>
+      <td>statsmodels</td>
+      <td>statsmodels.tsa.arima.model.ARIMA</td>
+    </tr>
+  </tbody>
+</table>
 
 {% hint style="warning" %}
 목록에 없는 모듈도 ‘항목 1.2'에 따라 검토 후 인정 가능합니다.
@@ -399,12 +707,37 @@
 
 ### 나. 주요 딥러닝 기반 인공지능처리 연산체계
 
-| 유형                              | 라이브러리                                                       | 모듈명                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| ------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 시각 인지 (CNN 계열)                  | PyTorch / TensorFlow Ultralytics                            | <p>torchvision.models.resnet50<br>keras.applications.resnet50.ResNet50<br>ultralytics.YOLO<br>ultralytics.YOLOv8<br>ultralytics.YOLOv10<br>ultralytics.YOLO11<br>torchvision.models.resnet101<br>torchvision.models.vgg16<br>torchvision.models.efficientnet_b0<br>torchvision.models.efficientnet_v2_s<br>torchvision.models.convnext_tiny<br>torchvision.models.vit_b_16<br>torchvision.models.swin_tkeras.applications.vgg16.VGG16<br>keras.applications.efficientnet.EfficientNetB4<br>keras.applications.mobilenet_v3.MobileNetV3Large</p> |
-| <p>시각 인지<br>(이미지 확장, 페이스 등)</p> | timm / segmentation\_models\_pytorch /Detectron2 (Facebook) | <p>timm.models.resnet50<br>timm.models.efficientnet_b0<br>segmentation_models_pytorch.Unet<br>detectron2.modeling.build_model</p>                                                                                                                                                                                                                                                                                                                                                                                                               |
-| <p>시계열<br>(RNN 계열)</p>          | PyTorch / Keras                                             | <p>torch.nn.LSTM / torch.nn.GRU<br>keras.layers.LSTM / keras.layers.GRU<br>torch.nn.Transformer</p>                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| 자연어 이해 (NLU)                    | Hugging Face (Transformers)                                 | <p>transformers.BertModel<br>transformers.AutoModelForSequenceClassification<br>transformers.RobertaModel<br>transformers.DistilBertModel<br>transformers.ElectraModel<br>transformers.AlbertModel<br>transformers.T5Model<br>transformers.BartModel</p>                                                                                                                                                                                                                                                                                        |
+<table>
+  <thead>
+    <tr>
+      <th>유형</th>
+      <th>라이브러리</th>
+      <th>모듈명</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>시각 인지 (CNN 계열)</td>
+      <td>PyTorch / TensorFlow Ultralytics</td>
+      <td>torchvision.models.resnet50<br>keras.applications.resnet50.ResNet50<br>ultralytics.YOLO<br>ultralytics.YOLOv8<br>ultralytics.YOLOv10<br>ultralytics.YOLO11<br>torchvision.models.resnet101<br>torchvision.models.vgg16<br>torchvision.models.efficientnet_b0<br>torchvision.models.efficientnet_v2_s<br>torchvision.models.convnext_tiny<br>torchvision.models.vit_b_16<br>torchvision.models.swin_tkeras.applications.vgg16.VGG16<br>keras.applications.efficientnet.EfficientNetB4<br>keras.applications.mobilenet_v3.MobileNetV3Large</td>
+    </tr>
+    <tr>
+      <td>시각 인지<br>(이미지 확장, 페이스 등)</td>
+      <td>timm / segmentation_models_pytorch /Detectron2 (Facebook)</td>
+      <td>timm.models.resnet50<br>timm.models.efficientnet_b0<br>segmentation_models_pytorch.Unet<br>detectron2.modeling.build_model</td>
+    </tr>
+    <tr>
+      <td>시계열<br>(RNN 계열)</td>
+      <td>PyTorch / Keras</td>
+      <td>torch.nn.LSTM / torch.nn.GRU<br>keras.layers.LSTM / keras.layers.GRU<br>torch.nn.Transformer</td>
+    </tr>
+    <tr>
+      <td>자연어 이해 (NLU)</td>
+      <td>Hugging Face (Transformers)</td>
+      <td>transformers.BertModel<br>transformers.AutoModelForSequenceClassification<br>transformers.RobertaModel<br>transformers.DistilBertModel<br>transformers.ElectraModel<br>transformers.AlbertModel<br>transformers.T5Model<br>transformers.BartModel</td>
+    </tr>
+  </tbody>
+</table>
 
 {% hint style="warning" %}
 이외에도 공개 저장소(Hugging Face 등)에 배포된 모듈을 사용하는 경우 Model Card 내 Base Model, 데이터 출처, 성능 지표 등이 확인되는 경우에 한해 인정 가능합니다.
@@ -412,39 +745,172 @@
 
 ### 다. 주요 생성형 AI 기반 인공지능처리 연산체계
 
-| 유형                 | 라이브러리                       | 모듈명                                           |
-| ------------------ | --------------------------- | --------------------------------------------- |
-| 프레임워크 연동           | LangChain                   | langchain\_core.language\_models.chat\_models |
-| 오픈소스               | Hugging Face (Transformers) | transformers.AutoModelForCausalLM             |
-| 텍스트 임베딩            | OpenAI Python SDK           | openai.resources.embeddings                   |
-| 상용 API             | Anthropic SDK               | anthropic.resources.messages (Claude)         |
-|                    | Google Generative AI        | google.generativeai.GenerativeModel (Gemini)  |
-|                    | OpenAI Python SDK           | openai.resources.chat.completions             |
-|                    | Naver Cloud (HyperCLOVA-X)  | HyperCLOVA-X CLOVA Studio API                 |
-|                    | Upstage (Solar)             | Solar-10.7B-Instruct API                      |
-| 오픈소스 LLM 가중치       | Meta AI (Llama)             | Llama-3-8B-Instruct                           |
-|                    | Meta AI (Llama)             | Llama-3-70B-Instruct                          |
-|                    | Mistral AI                  | Mistral-7B-Instruct                           |
-|                    | Mistral AI                  | Mixtral-8x7B-Instruct                         |
-|                    | Alibaba Cloud (Qwen)        | Qwen2.5-7B-Instruct                           |
-|                    | Alibaba Cloud (Qwen)        | Qwen2.5-Coder                                 |
-|                    | DeepSeek                    | DeepSeek-V3                                   |
-|                    | DeepSeek                    | DeepSeek-R1                                   |
-|                    | Google (Gemma)              | Gemma-2-9b                                    |
-|                    | Google (Gemma)              | Gemma-2-27b                                   |
-|                    | Microsoft (Phi)             | Phi-3-mini-instruct                           |
-| 이미지 생성 (Diffusion) | Hugging Face (Diffusers)    | diffusers.StableDiffusionPipeline             |
-|                    | Hugging Face (Diffusers)    | diffusers.StableDiffusionXLPipeline           |
-|                    | Hugging Face (Diffusers)    | diffusers.FluxPipeline                        |
-| 이미지 생성 고속화         | Hugging Face (Diffusers)    | diffusers.LatentConsistencyModelPipeline      |
-| 이미지 조건 제어          | Hugging Face (Diffusers)    | diffusers.ControlNetModel                     |
-| 오디오/음성 생성 (TTS)    | Hugging Face (Transformers) | transformers.SpeechT5ForTextToSpeech          |
-| 음성 인식 (STT)        | Hugging Face (Transformers) | transformers.WhisperForConditionalGeneration  |
-| 오디오 오케스트레이션        | Hugging Face (Transformers) | transformers.BarkModel                        |
-| 이미지 생성 최신화         | Hugging Face (Diffusers)    | diffusers.SanaPipeline                        |
-| 클라우드 상용 서비스 연동     | Midjourney API              | midjourney.api                                |
-|                    | Suno AI API                 | suno.api                                      |
-|                    | ElevenLabs API              | elevenlabs.api                                |
+<table>
+  <thead>
+    <tr>
+      <th>유형</th>
+      <th>라이브러리</th>
+      <th>모듈명</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>프레임워크 연동</td>
+      <td>LangChain</td>
+      <td>langchain_core.language_models.chat_models</td>
+    </tr>
+    <tr>
+      <td>오픈소스</td>
+      <td>Hugging Face (Transformers)</td>
+      <td>transformers.AutoModelForCausalLM</td>
+    </tr>
+    <tr>
+      <td>텍스트 임베딩</td>
+      <td>OpenAI Python SDK</td>
+      <td>openai.resources.embeddings</td>
+    </tr>
+    <tr>
+      <td>상용 API</td>
+      <td>Anthropic SDK</td>
+      <td>anthropic.resources.messages (Claude)</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Google Generative AI</td>
+      <td>google.generativeai.GenerativeModel (Gemini)</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>OpenAI Python SDK</td>
+      <td>openai.resources.chat.completions</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Naver Cloud (HyperCLOVA-X)</td>
+      <td>HyperCLOVA-X CLOVA Studio API</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Upstage (Solar)</td>
+      <td>Solar-10.7B-Instruct API</td>
+    </tr>
+    <tr>
+      <td>오픈소스 LLM 가중치</td>
+      <td>Meta AI (Llama)</td>
+      <td>Llama-3-8B-Instruct</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Meta AI (Llama)</td>
+      <td>Llama-3-70B-Instruct</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Mistral AI</td>
+      <td>Mistral-7B-Instruct</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Mistral AI</td>
+      <td>Mixtral-8x7B-Instruct</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Alibaba Cloud (Qwen)</td>
+      <td>Qwen2.5-7B-Instruct</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Alibaba Cloud (Qwen)</td>
+      <td>Qwen2.5-Coder</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>DeepSeek</td>
+      <td>DeepSeek-V3</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>DeepSeek</td>
+      <td>DeepSeek-R1</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Google (Gemma)</td>
+      <td>Gemma-2-9b</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Google (Gemma)</td>
+      <td>Gemma-2-27b</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Microsoft (Phi)</td>
+      <td>Phi-3-mini-instruct</td>
+    </tr>
+    <tr>
+      <td>이미지 생성 (Diffusion)</td>
+      <td>Hugging Face (Diffusers)</td>
+      <td>diffusers.StableDiffusionPipeline</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Hugging Face (Diffusers)</td>
+      <td>diffusers.StableDiffusionXLPipeline</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Hugging Face (Diffusers)</td>
+      <td>diffusers.FluxPipeline</td>
+    </tr>
+    <tr>
+      <td>이미지 생성 고속화</td>
+      <td>Hugging Face (Diffusers)</td>
+      <td>diffusers.LatentConsistencyModelPipeline</td>
+    </tr>
+    <tr>
+      <td>이미지 조건 제어</td>
+      <td>Hugging Face (Diffusers)</td>
+      <td>diffusers.ControlNetModel</td>
+    </tr>
+    <tr>
+      <td>오디오/음성 생성 (TTS)</td>
+      <td>Hugging Face (Transformers)</td>
+      <td>transformers.SpeechT5ForTextToSpeech</td>
+    </tr>
+    <tr>
+      <td>음성 인식 (STT)</td>
+      <td>Hugging Face (Transformers)</td>
+      <td>transformers.WhisperForConditionalGeneration</td>
+    </tr>
+    <tr>
+      <td>오디오 오케스트레이션</td>
+      <td>Hugging Face (Transformers)</td>
+      <td>transformers.BarkModel</td>
+    </tr>
+    <tr>
+      <td>이미지 생성 최신화</td>
+      <td>Hugging Face (Diffusers)</td>
+      <td>diffusers.SanaPipeline</td>
+    </tr>
+    <tr>
+      <td>클라우드 상용 서비스 연동</td>
+      <td>Midjourney API</td>
+      <td>midjourney.api</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Suno AI API</td>
+      <td>suno.api</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>ElevenLabs API</td>
+      <td>elevenlabs.api</td>
+    </tr>
+  </tbody>
+</table>
 
 {% hint style="warning" %}
 이외에도 공개 저장소(Hugging Face 등)에 배포된 모듈을 사용하는 경우 Model Card 내 Base Model, 데이터 출처, 성능 지표 등이 확인되는 경우에 한해 인정 가능합니다.
@@ -456,31 +922,144 @@
 
 ### 라. 기타
 
-| 유형                       | 라이브러리                                     | 모듈명                                                       |
-| ------------------------ | ----------------------------------------- | --------------------------------------------------------- |
-| 강화학습 (RL)                | Stable-Baselines3                         | stable\_baselines3.PPO                                    |
-|                          | Stable-Baselines3                         | stable\_baselines3.DQN                                    |
-|                          | Stable-Baselines3                         | stable\_baselines3.A2C                                    |
-|                          | Stable-Baselines3                         | stable\_baselines3.SAC                                    |
-|                          | Stable-Baselines3                         | stable\_baselines3.TD3                                    |
-|                          | Ray (RLlib)                               | ray.rllib.algorithms.ppo.PPO                              |
-|                          | Ray (RLlib)                               | ray.rllib.algorithms.dqn.DQN                              |
-|                          | Ray (RLlib)                               | ray.rllib.algorithms.sac.SAC                              |
-| 이상 징후 탐지 (Anomaly)       | <p>scikit-learn<br>(sklearn)</p>          | sklearn.ensemble.IsolationForest                          |
-|                          | scikit-learn (sklearn)                    | sklearn.svm.OneClassSVM                                   |
-|                          | scikit-learn (sklearn)                    | sklearn.neighbors.LocalOutlierFactor                      |
-|                          | scikit-learn (sklearn)                    | sklearn.covariance.EllipticEnvelope                       |
-| <p>이상 탐지 패키지<br>전문화</p>  | <p>PyOD<br>(Python Outlier Detection)</p> | pyod.models.knn.KNN                                       |
-|                          | PyOD (Python Outlier Detection)           | pyod.models.iforest.IForest                               |
-|                          | PyOD (Python Outlier Detection)           | pyod.models.copod.COPOD                                   |
-|                          | PyOD (Python Outlier Detection)           | pyod.models.auto\_encoder.AutoEncoder                     |
-| <p>기계학습 기반<br>시계열 예측</p> | Prophet (Meta)                            | prophet.Prophet                                           |
-| 기계학습 기반 시계열 예측           | sktime                                    | sktime.forecasting.arima.ARIMA                            |
-| <p>딥러닝 기반<br>시계열 예측</p>  | <p>GluonTS<br>(Amazon)</p>                | gluonts.mx.model.deepar.DeepAREstimator                   |
-|                          | Darts                                     | darts.models.forecasting.tft\_model.TFTModel              |
-|                          | Darts                                     | darts.models.forecasting.nhits.NBEATSModel                |
-| 그래프 뉴럴 네트워크 (GNN)        | <p>PyTorch<br>Geometric<br>(PyG)</p>      | torch\_geometric.nn.GCNConv                               |
-|                          | PyTorch Geometric (PyG)                   | torch\_geometric.nn.GATConv                               |
-| 추천 시스템                   | <p>Microsoft<br>Recommenders</p>          | recommenders.models.deeprec.models.xdeepfm.XDeepFMModel   |
-|                          | LightFM                                   | lightfm.LightFM                                           |
-|                          | Surprise                                  | surprise.prediction\_algorithms.matrix\_factorization.SVD |
+<table>
+  <thead>
+    <tr>
+      <th>유형</th>
+      <th>라이브러리</th>
+      <th>모듈명</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>강화학습 (RL)</td>
+      <td>Stable-Baselines3</td>
+      <td>stable_baselines3.PPO</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Stable-Baselines3</td>
+      <td>stable_baselines3.DQN</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Stable-Baselines3</td>
+      <td>stable_baselines3.A2C</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Stable-Baselines3</td>
+      <td>stable_baselines3.SAC</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Stable-Baselines3</td>
+      <td>stable_baselines3.TD3</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Ray (RLlib)</td>
+      <td>ray.rllib.algorithms.ppo.PPO</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Ray (RLlib)</td>
+      <td>ray.rllib.algorithms.dqn.DQN</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Ray (RLlib)</td>
+      <td>ray.rllib.algorithms.sac.SAC</td>
+    </tr>
+    <tr>
+      <td>이상 징후 탐지 (Anomaly)</td>
+      <td>scikit-learn<br>(sklearn)</td>
+      <td>sklearn.ensemble.IsolationForest</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>scikit-learn (sklearn)</td>
+      <td>sklearn.svm.OneClassSVM</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>scikit-learn (sklearn)</td>
+      <td>sklearn.neighbors.LocalOutlierFactor</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>scikit-learn (sklearn)</td>
+      <td>sklearn.covariance.EllipticEnvelope</td>
+    </tr>
+    <tr>
+      <td>이상 탐지 패키지<br>전문화</td>
+      <td>PyOD<br>(Python Outlier Detection)</td>
+      <td>pyod.models.knn.KNN</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>PyOD (Python Outlier Detection)</td>
+      <td>pyod.models.iforest.IForest</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>PyOD (Python Outlier Detection)</td>
+      <td>pyod.models.copod.COPOD</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>PyOD (Python Outlier Detection)</td>
+      <td>pyod.models.auto_encoder.AutoEncoder</td>
+    </tr>
+    <tr>
+      <td>기계학습 기반<br>시계열 예측</td>
+      <td>Prophet (Meta)</td>
+      <td>prophet.Prophet</td>
+    </tr>
+    <tr>
+      <td>기계학습 기반 시계열 예측</td>
+      <td>sktime</td>
+      <td>sktime.forecasting.arima.ARIMA</td>
+    </tr>
+    <tr>
+      <td>딥러닝 기반<br>시계열 예측</td>
+      <td>GluonTS<br>(Amazon)</td>
+      <td>gluonts.mx.model.deepar.DeepAREstimator</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Darts</td>
+      <td>darts.models.forecasting.tft_model.TFTModel</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Darts</td>
+      <td>darts.models.forecasting.nhits.NBEATSModel</td>
+    </tr>
+    <tr>
+      <td>그래프 뉴럴 네트워크 (GNN)</td>
+      <td>PyTorch<br>Geometric<br>(PyG)</td>
+      <td>torch_geometric.nn.GCNConv</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>PyTorch Geometric (PyG)</td>
+      <td>torch_geometric.nn.GATConv</td>
+    </tr>
+    <tr>
+      <td>추천 시스템</td>
+      <td>Microsoft<br>Recommenders</td>
+      <td>recommenders.models.deeprec.models.xdeepfm.XDeepFMModel</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>LightFM</td>
+      <td>lightfm.LightFM</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Surprise</td>
+      <td>surprise.prediction_algorithms.matrix_factorization.SVD</td>
+    </tr>
+  </tbody>
+</table>
